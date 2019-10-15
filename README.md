@@ -1,2 +1,3 @@
 # xogame
-good old "x o" game :)
+good old "nut & cross" game written in Java AWT :)
+IDE used: NetBeans
